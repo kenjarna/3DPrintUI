@@ -1,1 +1,12 @@
-"prettier-config-airbnb"
+{
+    "trailingComma": "es5",
+    "jsxSingleQuote": false,
+    "jsxBracketSameLine": false,
+    "semi": true,
+    "bracketSpacing": false,
+    "tabWidth": 2,
+    "useTabs": false,
+    "arrowParens": "avoid",
+    "singleQuote": true,
+    "quoteProps": "as-needed"
+}
